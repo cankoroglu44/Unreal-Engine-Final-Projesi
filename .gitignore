@@ -1,0 +1,37 @@
+# Unreal Engine .gitignore
+
+# Binaries
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+
+# Saved (logs, config cache, screenshots)
+Saved/
+
+# VS / Rider
+.vs/
+.idea/
+*.sln
+*.suo
+
+# Compiled objects
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+*.pdb
+
+# Unreal build files
+*.opensdf
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Mac
+.DS_Store
+
+# Thumbs
+Thumbs.db
